@@ -6,5 +6,7 @@ public class hello {
 
         System.out.print("Guten Tag !\n");
         System.out.print("Was darf ich fuer Sie tun?");
+        System.out.print("Deni e PC2");
+        System.out.print("Zlati e PC1");
 	}
 }
