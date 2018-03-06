@@ -4,7 +4,7 @@ public class hello {
 	
 	public static void main(String[] args) {
 
-        System.out.print("Guten Tag !\n");
-        System.out.print("Was darf ich fuer Sie tun?");
+        System.out.print("Schoenen Guten Tag!\n");
+        System.out.print("Wie kann ich Ihnen weiter helfen?");
 	}
 }
